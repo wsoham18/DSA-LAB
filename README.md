@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/wsoham18/DSA-LAB/tree/master/0561-array-partition) |
+## Math
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/wsoham18/DSA-LAB/tree/master/0441-arranging-coins) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/wsoham18/DSA-LAB/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
