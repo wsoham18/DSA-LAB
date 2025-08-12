@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/wsoham18/DSA-LAB/tree/master/0118-pascals-triangle) |
 | [0561-array-partition](https://github.com/wsoham18/DSA-LAB/tree/master/0561-array-partition) |
 ## Greedy
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/wsoham18/DSA-LAB/tree/master/0441-arranging-coins) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/wsoham18/DSA-LAB/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
